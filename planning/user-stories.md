@@ -1,8 +1,7 @@
 # Tamagotchi User Stories
 
 ## MVP
-As a player I want a digital pet that I can feed, and play with so I can be cool like my friends.
-pet rock
+As a player I want a digital pet that I can feed, and play with so I can be cool like my friends. It should have age, hunger, and boredom stats.
 
 ## Stretch Goals
 
