@@ -1,0 +1,38 @@
+/* Base & Utility Styles */
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'VT323', monospace; */
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+.wrapper {
+	max-width: 1200px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 {
+	font-family: 'VT323', monospace;
+	font-size: 3rem;
+}
+
+/* Flex styles */
+
+.flex-container {
+	display: flex;
+}
+
+.space-between {
+	justify-content: space-between;
+}
+
+/* Game Styles */
+.game-container {
+	background: url('../assets/park-background.webp') no-repeat center center;
+	height: 70vh;
+}
